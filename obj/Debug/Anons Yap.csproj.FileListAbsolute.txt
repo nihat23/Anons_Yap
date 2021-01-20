@@ -1,0 +1,15 @@
+D:\VB\Anons Yap\bin\Debug\Anons Yap.exe.config
+D:\VB\Anons Yap\bin\Debug\Anons Yap.exe
+D:\VB\Anons Yap\bin\Debug\Anons Yap.pdb
+D:\VB\Anons Yap\bin\Debug\Interop.WMPLib.dll
+D:\VB\Anons Yap\bin\Debug\AxInterop.WMPLib.dll
+D:\VB\Anons Yap\obj\Debug\Anons Yap.csprojAssemblyReference.cache
+D:\VB\Anons Yap\obj\Debug\Interop.WMPLib.dll
+D:\VB\Anons Yap\obj\Debug\AxInterop.WMPLib.dll
+D:\VB\Anons Yap\obj\Debug\Anons Yap.csproj.ResolveComReference.cache
+D:\VB\Anons Yap\obj\Debug\Anons_Yap.Form1.resources
+D:\VB\Anons Yap\obj\Debug\Anons_Yap.Properties.Resources.resources
+D:\VB\Anons Yap\obj\Debug\Anons Yap.csproj.GenerateResource.cache
+D:\VB\Anons Yap\obj\Debug\Anons Yap.exe
+D:\VB\Anons Yap\obj\Debug\Anons Yap.pdb
+D:\VB\Anons Yap\obj\Debug\Anons Yap.csproj.CoreCompileInputs.cache
